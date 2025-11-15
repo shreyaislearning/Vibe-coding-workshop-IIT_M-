@@ -1,0 +1,77 @@
+{
+    "chapter1": [
+        {
+            "id": "name_yourself",
+            "title": "Name Yourself Again",
+            "description": "Choose a name that feels right for you now.",
+            "rewards": {
+                "clarity": 10,
+                "confidence": 5
+            }
+        }
+    ],
+    "chapter2": [
+        {
+            "id": "emotion_sorting",
+            "title": "Emotion Sorting",
+            "description": "Let's organize your feelings. Sort these emotions into 'positive' and 'negative' categories: Joy, Anger, Sadness, Hope, Fear.",
+            "emotions": ["Joy", "Anger", "Sadness", "Hope", "Fear"],
+            "solution": {
+                "positive": ["Joy", "Hope"],
+                "negative": ["Anger", "Sadness", "Fear"]
+            },
+            "rewards": {
+                "emotional_stability": 10,
+                "clarity": 5
+            }
+        }
+    ],
+    "chapter3": [
+        {
+            "id": "choose_style",
+            "title": "Choose Your Style",
+            "description": "Your style is a reflection of who you are. Choose an aesthetic that resonates with you: Minimalist, Cottagecore, Kolkata Vintage, Maximalist, Artistic.",
+            "options": ["Minimalist", "Cottagecore", "Kolkata Vintage", "Maximalist", "Artistic"],
+            "rewards": {
+                "self_expression": 10,
+                "confidence": 5
+            }
+        }
+    ],
+    "chapter4": [
+        {
+            "id": "room_reset",
+            "title": "Room Reset",
+            "description": "A cluttered space can lead to a cluttered mind. Let's declutter. Choose one item to remove from your space: Old Clothes, Piled-up Dishes, Unused Gadgets.",
+            "options": ["Old Clothes", "Piled-up Dishes", "Unused Gadgets"],
+            "rewards": {
+                "home_organization": 10,
+                "clarity": 5
+            }
+        }
+    ],
+    "chapter5": [
+        {
+            "id": "morning_routine",
+            "title": "Morning Routine",
+            "description": "A good day starts with a good morning. Choose one small action to add to your morning routine: Drink a glass of water, Stretch for 5 minutes, Write one sentence in a journal.",
+            "options": ["Drink a glass of water", "Stretch for 5 minutes", "Write one sentence in a journal"],
+            "rewards": {
+                "discipline": 10,
+                "willpower": 5
+            }
+        }
+    ],
+    "chapter6": [
+        {
+            "id": "career_exploration",
+            "title": "Career Exploration",
+            "description": "What kind of work aligns with your values? Choose a field that interests you: Creative Arts, Helping Professions, Technical Fields, Entrepreneurship.",
+            "options": ["Creative Arts", "Helping Professions", "Technical Fields", "Entrepreneurship"],
+            "rewards": {
+                "career_clarity": 10,
+                "hope": 5
+            }
+        }
+    ]
+}
